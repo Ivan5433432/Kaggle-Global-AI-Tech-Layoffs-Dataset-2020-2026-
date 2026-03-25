@@ -1,4 +1,4 @@
-# Global AI & Tech Layoffs Analysis (2020–2026)
+# Data Analysis Project - Global Tech Layoffs & AI Workforce Transformation (2020–2026)
 
 ## Overview
 
@@ -129,4 +129,4 @@ This analysis highlights that workforce reductions in the tech industry are incr
 
 ## Author
 Ivan Vinh Nguyen
-Data Analysis Project – Global Tech Layoffs & AI Workforce Transformation
+ 
