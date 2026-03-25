@@ -2,10 +2,10 @@
 
 ## Overview
 
-The tech industry has undergone significant shifts since 2020 — from pandemic-driven overhiring, to the market correction in 2022–2023, and more recently, AI-driven workforce restructuring.
+The tech industry has undergone significant shifts since 2020, from pandemic-driven overhiring, to the market correction in 2022–2023, and more recently, AI-driven workforce restructuring.
 This project analyzes global tech layoffs between 2020 and 2026 to uncover trends, identify key drivers, and derive business implications.
 
-The goal is to combine data analysis with business interpretation to better understand how technological change — particularly AI adoption — is reshaping workforce dynamics.
+The goal is to combine data analysis with business interpretation to better understand how technological change, particularly AI adoption, is reshaping workforce dynamics.
 
 ---
 
@@ -128,4 +128,5 @@ This analysis highlights that workforce reductions in the tech industry are incr
 ---
 
 ## Author
-Ivan - Data Analysis Project – Global Tech Layoffs & AI Workforce Transformation
+Ivan Vinh Nguyen
+Data Analysis Project – Global Tech Layoffs & AI Workforce Transformation
